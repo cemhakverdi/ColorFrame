@@ -1,18 +1,9 @@
-## Getting Started
+## RGB Color Desktop APP
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a basic rgb color finder app. 
+It has 3 sliders that let you to find desired color. 
+After you find the color, you can see the rgb codes of the color in the bottom of the app.
+File also has the jar file for you to create executable form of the app.
+Requires java to work.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
